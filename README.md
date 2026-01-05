@@ -1,8 +1,3 @@
-
-
----
-
-````markdown
 # 🚀 Highly Available Multi-Tier Application on AWS EKS
 
 This project demonstrates how to deploy a **highly available multi-tier application** on **AWS EKS**, consisting of:
@@ -299,4 +294,3 @@ This deletes:
 * Networking resources
 
 ```
----
