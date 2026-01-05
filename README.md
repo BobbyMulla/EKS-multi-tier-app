@@ -292,5 +292,3 @@ This deletes:
 * EC2 nodes
 * Load balancer
 * Networking resources
-
-```
